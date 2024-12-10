@@ -1,4 +1,4 @@
-## Foundry
+## Foundry🚀
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
@@ -33,7 +33,7 @@ $ forge test
 $ forge fmt
 ```
 
-### Gas Snapshots
+### Gas Snapshots⛽
 
 ```shell
 $ forge snapshot
@@ -64,8 +64,15 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
-1. Proper README
-2. Integration tests
-3. Programatic verification
-4. Push to Github
+1. Proper README✅
+2. Integration tests✅
+3. Programatic verification✅
+4. Push to Github✅
+
+
+# About
+
+This is a crowd sourcing apps
+
+
    
